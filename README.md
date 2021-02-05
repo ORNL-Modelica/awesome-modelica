@@ -14,7 +14,7 @@ This repository is not intended to be a catch-all for all the Modelica applicati
 - [Modelica StackOverflow](https://stackoverflow.com/questions/tagged/modelica)
 
 ## Textbooks
-- [Modelica By Example](https://mbe.modelica.university/) by Michael Tiller
+- [Modelica By Example](https://mbe.modelica.university/) by Michael Tiller - Digital Textbook - *Highly Recommend Modelica newbies*
 - [Principles of Object-Oriented Modeling and Simulation with Modelica 3.3: A Cyber-Physical Approach](https://www.amazon.com/Principles-Object-Oriented-Modeling-Simulation-Modelica/dp/111885912X) by Peter Fritzson
 
 ## Blogs
