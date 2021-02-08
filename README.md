@@ -1,4 +1,4 @@
-# Awesome Modelica
+# Awesome Modelica[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 > A curated list of Modelica libraries, tools and resources.
 
 Modelica is a non-proprietary, object-oriented, equation based modeling language to conveniently model complex physical systems containing, e.g., mechanical, electrical, electronic, hydraulic, thermal, control, electric power or process-oriented subcomponents.
