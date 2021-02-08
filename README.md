@@ -64,7 +64,7 @@ See the [official Modelica website](https://www.modelica.org/) for the official 
 - [Modelon News Blog](https://www.modelon.com/news-blog) by Modelon | Tips and ideas for solving problems with Modelica from a leading user/developer of Modelica technologies.
 
 ## Videos & Tutorials
-> Media (videa, audio, powerpoint, etc.) for learning and using Modelica.
+> Media (e.g., video, audio, powerpoint, etc.) for learning and using Modelica.
 - [Modelica & TRANSFORM Tutorials](https://www.youtube.com/channel/UCL8MRWi3q0Ivo2KVMLq1O8A) by Scott Greenwood | YouTube channel for general Modelica tutorials and TRANSFORM library tutorials.
 
 # Tool Specific
