@@ -19,6 +19,7 @@ See the [official Modelica website](https://www.modelica.org/) for the official 
 - [General](#general)
   - [Modelica Language](#community)
   - [Functional Mockup Interface](#functional-mockup-interface)
+  - [Libraries](#libraries)
   - [Community](#community)
   - [Books](#books)
   - [Blogs](#blogs)
@@ -40,6 +41,11 @@ See the [official Modelica website](https://www.modelica.org/) for the official 
 ## Functional Mockup Interface
 > Resources relating Functional Mockup Interface (FMI) and Functional Mockup Units (FMU).
 - [Awesome FMI Github](https://github.com/traversaro/awesome-fmi) | A curated list of Functional Mock-up Interface (FMI) libraries, tools and resources.
+
+## Libraries
+> Library resources for the general audience.
+- [Modelica Standard Library](https://github.com/modelica/ModelicaStandardLibrary) | The official free (standard conforming) library from the Modelica Association.
+- [Modelica Github Repositories](https://github.com/modelica-3rdparty) | List of 3rd party Modelica libraries on Github.
 
 ## Community
 > Resources for news, help, collaborations, etc.
