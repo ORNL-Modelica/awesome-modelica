@@ -56,7 +56,7 @@ See the [official Modelica website](https://www.modelica.org/) for the official 
 ## Modelon Impact
 ### Community
 - [LinkedIn](https://www.linkedin.com/groups/12431484/)
-- [
+
 ## OpenModelica
 ### Community
 - [Twitter](https://twitter.com/openmodelica)
