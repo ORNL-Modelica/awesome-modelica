@@ -20,17 +20,20 @@ See the [official Modelica website](https://www.modelica.org/) for the official 
   - [OpenModelica](#openmodelica)
 
 # General
-> [Official Modelica Association Homepage](https://www.modelica.org/) by the Modelica Association | The main website for Modelica
+> Resources of a nature more generally helpful to the Modelica community.
+- [Official Modelica Association Homepage](https://www.modelica.org/) by the Modelica Association | The main website for Modelica. Good for announcements, conference proceedings, news, etc.
 
 ## Modelica Language
+> Language specific resources
 - [Modelica Specification Github](https://github.com/modelica/ModelicaSpecification) by the Modelica Association | Defines the Modelica modeling language.
 - [Modelica Web Reference](https://webref.modelica.university/) by Michael Tiller | A cheatsheet for the Modelica language
 
 ## Functional Mockup Interface
-> Including topics on Functional Mockup Interface (FMI) and Functional Mockup Units (FMU)
+> Resources relating Functional Mockup Interface (FMI) and Functional Mockup Units (FMU)
 - [Awesome FMI Github](https://github.com/traversaro/awesome-fmi) | A curated list of Functional Mock-up Interface (FMI) libraries, tools and resources.
 
 ## Community
+> Some ways to get a hold of others for news, help, and collaborations.
 - [Modelica Discord Channel](https://discord.com/invite/bp2yeYU) | Discord server for Modelica and Modelica related technology and topics.
 - [Modelica StackOverflow](https://stackoverflow.com/questions/tagged/modelica) | The Modelica tag for Q&A.
 - [Modelica Twitter](https://twitter.com/modelica) | Official twitter for the Modelica Association.
@@ -39,21 +42,25 @@ See the [official Modelica website](https://www.modelica.org/) for the official 
 - [Modelica Reddit](https://www.reddit.com/r/Modelica/) | Reddit group for Modelica
 
 ## Books
-> An additional [book list](https://modelica.org/publications) may be found on the official Modelica site.
+> Published material (physical or web-based) for coming up to speed on Modelica.
+- [Modelica Association book list](https://modelica.org/publications) | A list of material managed by the Modelica Association.
 - [Modelica By Example](https://mbe.modelica.university/) by Michael Tiller | A web-based textbook for Modelica | **Highly recommended for Modelica newbies**
 - [Principles of Object-Oriented Modeling and Simulation with Modelica 3.3: A Cyber-Physical Approach](https://www.amazon.com/Principles-Object-Oriented-Modeling-Simulation-Modelica/dp/111885912X) by Peter Fritzson | A throurough textbook on the Modelica langauge with many helpful examples.
     - [PDF download for those who may have access](https://doi.org/10.1002/9781118989166)
 
 ## Blogs
+> More informal knowledge sharing avenues
 - [Claytex Blogs](https://www.claytex.com/blog/) by Claytex | Tips and ideas for solving problems with Modelica from a leading user/developer of Modelica technologies.
 - [All About Modelica](https://marcobonvini.com/modelica/2020/06/29/all-about-modelica.html) by Marco Bonvini | An introduction describing what is Modelica.
 - [Modelon News Blog](https://www.modelon.com/news-blog) by Modelon | Tips and ideas for solving problems with Modelica from a leading user/developer of Modelica technologies.
 
 ## Videos & Tutorials
+> Media (videa, audio, powerpoint, etc.) for learning and using Modelica.
 - [Modelica & TRANSFORM Tutorials](https://www.youtube.com/channel/UCL8MRWi3q0Ivo2KVMLq1O8A) by Scott Greenwood | YouTube channel for general Modelica tutorials and tutorials using the TRANSFORM library.
 
 # Tool Specific
-> Alphabetical order
+> Resources which tend to be more specific to indivdual tools
+> Tools will be presented in **Alphabetical** order
 
 ## Dymola
 ### Community
