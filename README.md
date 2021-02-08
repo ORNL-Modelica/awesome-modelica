@@ -13,6 +13,9 @@ See the [official Modelica website](https://www.modelica.org/) for the official 
   - [Blogs](#blogs)
   - [Videos & Tutorials](#videos-&-tutorials)
 - [Tool Specific](#tool-specific)
+  - [Dymola](#dymola)
+  - [Modelon Impact](#modelon-impact)
+  - [OpenModelica](#openmodelica)
 
 # General
 - [Official Modelica Association Homepage](https://www.modelica.org/) by the Modelica Association
@@ -26,6 +29,8 @@ See the [official Modelica website](https://www.modelica.org/) for the official 
 - [Modelica StackOverflow](https://stackoverflow.com/questions/tagged/modelica)
 - [Modelica Twitter](https://twitter.com/modelica)
 - [Modelica Insider Twitter](https://twitter.com/modelicainsider)
+- [Modelica LinkedIn](https://www.linkedin.com/groups/806917/)
+- [Modelica Reddit](https://www.reddit.com/r/Modelica/)
 
 ## Books
 - [Modelica By Example](https://mbe.modelica.university/) by Michael Tiller - Digital Textbook - *Highly Recommend Modelica newbies*
@@ -44,9 +49,18 @@ See the [official Modelica website](https://www.modelica.org/) for the official 
 > Alphabetical order
 
 ## Dymola
+### Community
+- [LinkedIn](https://www.linkedin.com/groups/4400628/)
 
+## Modelon Impact
+### Community
+- [LinkedIn](https://www.linkedin.com/groups/12431484/)
+- [
 ## OpenModelica
-
+### Community
+- [Twitter](https://twitter.com/openmodelica)
+- [StackOverflow](https://stackoverflow.com/questions/tagged/openmodelica)
+- [Official Forum](https://www.openmodelica.org/forum)
 
 
 
