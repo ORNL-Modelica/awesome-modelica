@@ -22,12 +22,12 @@ See the [official Modelica website](https://www.modelica.org/) for the official 
 > [Official Modelica Association Homepage](https://www.modelica.org/) by the Modelica Association
 
 ## Modelica Language
-- [Modelica Specification Github](https://github.com/modelica/ModelicaSpecification) - by the Modelica Association - A very useful document!
-- [Modelica Web Reference](https://webref.modelica.university/) by Michael Tiller - An excellent quick reference for the Modelica Language
+- [Modelica Specification Github](https://github.com/modelica/ModelicaSpecification) - by the Modelica Association | :trophy:
+- [Modelica Web Reference](https://webref.modelica.university/) by Michael Tiller | :trophy:
 
 ## Community
-- [Modelica Discord Channel](https://discord.com/invite/bp2yeYU)
-- [Modelica StackOverflow](https://stackoverflow.com/questions/tagged/modelica)
+- [Modelica Discord Channel](https://discord.com/invite/bp2yeYU) | :trophy:
+- [Modelica StackOverflow](https://stackoverflow.com/questions/tagged/modelica) | :trophy:
 - [Modelica Twitter](https://twitter.com/modelica)
 - [Modelica Insider Twitter](https://twitter.com/modelicainsider)
 - [Modelica LinkedIn](https://www.linkedin.com/groups/806917/)
@@ -35,7 +35,7 @@ See the [official Modelica website](https://www.modelica.org/) for the official 
 
 ## Books
 > An additional [book list](https://modelica.org/publications) may be found on the official Modelica site.
-- [Modelica By Example](https://mbe.modelica.university/) by Michael Tiller - Digital Textbook - **Highly recommended for Modelica newbies**
+- [Modelica By Example](https://mbe.modelica.university/) by Michael Tiller | :trophy: **Highly recommended for Modelica newbies**
 - [Principles of Object-Oriented Modeling and Simulation with Modelica 3.3: A Cyber-Physical Approach](https://www.amazon.com/Principles-Object-Oriented-Modeling-Simulation-Modelica/dp/111885912X) by Peter Fritzson | [PDF download for those who may have access](https://doi.org/10.1002/9781118989166)
 
 ## Blogs
@@ -45,7 +45,6 @@ See the [official Modelica website](https://www.modelica.org/) for the official 
 
 ## Videos & Tutorials
 - [Modelica & TRANSFORM Tutorials](https://www.youtube.com/channel/UCL8MRWi3q0Ivo2KVMLq1O8A) by Scott Greenwood
-
 
 # Tool Specific
 > Alphabetical order
