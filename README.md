@@ -34,6 +34,7 @@ See the [official Modelica website](https://www.modelica.org/) for the official 
 - [Modelica Reddit](https://www.reddit.com/r/Modelica/)
 
 ## Books
+> An additional [book list](https://modelica.org/publications) may be found on the official Modelica site.
 - [Modelica By Example](https://mbe.modelica.university/) by Michael Tiller - Digital Textbook - **Highly recommended for Modelica newbies**
 - [Principles of Object-Oriented Modeling and Simulation with Modelica 3.3: A Cyber-Physical Approach](https://www.amazon.com/Principles-Object-Oriented-Modeling-Simulation-Modelica/dp/111885912X) by Peter Fritzson | [PDF download for those who may have access](https://doi.org/10.1002/9781118989166)
 
@@ -63,6 +64,8 @@ See the [official Modelica website](https://www.modelica.org/) for the official 
 - [StackOverflow](https://stackoverflow.com/questions/tagged/openmodelica)
 - [Official Forum](https://www.openmodelica.org/forum)
 
+### Books
+- [WebBook](http://omwebbook.openmodelica.org/)
 
 
 
