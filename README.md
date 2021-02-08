@@ -41,7 +41,7 @@ See the [official Modelica website](https://www.modelica.org/) for the official 
 ## Blogs
 - [Claytex Blogs](https://www.claytex.com/blog/) by Claytex
 - [All About Modelica](https://marcobonvini.com/modelica/2020/06/29/all-about-modelica.html) by Marco Bonvini
-- [Modelon Blog](https://www.modelon.com/news-blog)
+- [Modelon News Blog](https://www.modelon.com/news-blog) by Modelon
 
 ## Videos & Tutorials
 - [Modelica & TRANSFORM Tutorials](https://www.youtube.com/channel/UCL8MRWi3q0Ivo2KVMLq1O8A) by Scott Greenwood
