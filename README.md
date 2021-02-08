@@ -5,14 +5,14 @@ Modelica is a non-proprietary, object-oriented, equation based modeling language
 See the [official Modelica website](https://www.modelica.org/) for the official specification and more information about the Modelica Language.
 
 ## Contents
-- [Awesome Modelica](awesome-modelica)
+- [Awesome Modelica](#awesome-modelica)
 - [General](#general)
   - [Modelica Language](#community)
   - [Community](#community)
   - [Books](#books)
   - [Blogs](#blogs)
   - [Videos & Tutorials](#videos-&-tutorials)
-- [Tool Specific](#tool-specific]
+- [Tool Specific](#tool-specific)
 
 # General
 - [Official Modelica Association Homepage](https://www.modelica.org/) by the Modelica Association
