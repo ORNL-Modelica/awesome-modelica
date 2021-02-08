@@ -12,6 +12,8 @@ This repository is not intended to be a catch-all for all the Modelica applicati
 ## Community
 - [Modelica Discord Channel](https://discord.com/invite/bp2yeYU)
 - [Modelica StackOverflow](https://stackoverflow.com/questions/tagged/modelica)
+- [Modelica Twitter](https://twitter.com/modelica)
+- [Modelica Insider Twitter](https://twitter.com/modelicainsider)
 
 ## Textbooks
 - [Modelica By Example](https://mbe.modelica.university/) by Michael Tiller - Digital Textbook - *Highly Recommend Modelica newbies*
@@ -20,6 +22,7 @@ This repository is not intended to be a catch-all for all the Modelica applicati
 ## Blogs
 - [Claytex Blogs](https://www.claytex.com/blog/) by Claytex
 - [All About Modelica](https://marcobonvini.com/modelica/2020/06/29/all-about-modelica.html) by Marco Bonvini
+- [Modelon Blog](https://www.modelon.com/news-blog)
 
 ## Videos
 - [Modelica & TRANSFORM Tutorials](https://www.youtube.com/channel/UCL8MRWi3q0Ivo2KVMLq1O8A) by Scott Greenwood
