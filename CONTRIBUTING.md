@@ -9,8 +9,8 @@ Ensure your pull request adheres to the following guidelines:
  Thank you for your suggestions!
  
  ## Format Examples
- - [SHORT NAME](URL) by AUTHOR | Short description which ends with a period.
- - [SHORT NAME](URL) | Short description which ends with a period.
- - [SHORT NAME](URL) by AUTHOR | Short description which ends with a period.
-     - [ANOTHER SHORT NAME](OTHERURL) | Description of what this subbullet is.
+ - [Short Title](URL) by Author | Short description which ends with a period.
+ - [Short Title](URL) | Short description which ends with a period.
+ - [Short Title](URL) by Author | Short description which ends with a period.
+     - [Short Title](URL) | Description of what this subbullet is.
      
