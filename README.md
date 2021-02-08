@@ -9,9 +9,6 @@ This repository is not intended to be a catch-all for all the Modelica applicati
 - [Modelica Specification Github](https://github.com/modelica/ModelicaSpecification) - by the Modelica Association - A very useful document!
 - [Modelica Web Reference](https://webref.modelica.university/) by Michael Tiller - An excellent quick reference for the Modelica Language
 
-https://github.com/modelica/ModelicaSpecification
-https://specification.modelica.org/
-
 ## Community
 - [Modelica Discord Channel](https://discord.com/invite/bp2yeYU)
 - [Modelica StackOverflow](https://stackoverflow.com/questions/tagged/modelica)
