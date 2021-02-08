@@ -10,14 +10,18 @@ This repository is not intended to be a catch-all for all the Modelica applicati
 - [Modelica Web Reference](https://webref.modelica.university/) by Michael Tiller - An excellent quick reference for the Modelica Language
 
 ## Community
+### General
 - [Modelica Discord Channel](https://discord.com/invite/bp2yeYU)
 - [Modelica StackOverflow](https://stackoverflow.com/questions/tagged/modelica)
 - [Modelica Twitter](https://twitter.com/modelica)
 - [Modelica Insider Twitter](https://twitter.com/modelicainsider)
 
+### OpenModelica
+
+
 ## Textbooks
 - [Modelica By Example](https://mbe.modelica.university/) by Michael Tiller - Digital Textbook - *Highly Recommend Modelica newbies*
-- [Principles of Object-Oriented Modeling and Simulation with Modelica 3.3: A Cyber-Physical Approach](https://www.amazon.com/Principles-Object-Oriented-Modeling-Simulation-Modelica/dp/111885912X) by Peter Fritzson
+- [Principles of Object-Oriented Modeling and Simulation with Modelica 3.3: A Cyber-Physical Approach](https://www.amazon.com/Principles-Object-Oriented-Modeling-Simulation-Modelica/dp/111885912X) by Peter Fritzson | [PDF download for those who may have access](https://doi.org/10.1002/9781118989166)
 
 ## Blogs
 - [Claytex Blogs](https://www.claytex.com/blog/) by Claytex
