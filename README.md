@@ -6,8 +6,11 @@ This repository is not intended to be a catch-all for all the Modelica applicati
 
 ## Modelica Language
 - [Official Modelica Association Homepage](https://www.modelica.org/) by the Modelica Association
-- [Modelica Specification PDF 3.4](https://www.modelica.org/documents/ModelicaSpec34.pdf) - by the Modelica Association - A very useful document!
+- [Modelica Specification Github](https://github.com/modelica/ModelicaSpecification) - by the Modelica Association - A very useful document!
 - [Modelica Web Reference](https://webref.modelica.university/) by Michael Tiller - An excellent quick reference for the Modelica Language
+
+https://github.com/modelica/ModelicaSpecification
+https://specification.modelica.org/
 
 ## Community
 - [Modelica Discord Channel](https://discord.com/invite/bp2yeYU)
