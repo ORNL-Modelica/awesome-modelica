@@ -9,8 +9,13 @@ Modelica is a non-proprietary, object-oriented, equation based modeling language
 
 See the [official Modelica website](https://www.modelica.org/) for the official specification and more information about the Modelica Language.
 
+# Tags
+> A list of tags to help guide the reader based on Modelica experience.
+- :hatching_chick: | Recommended for those new to Modelica.
+
 ## Contents
 - [Awesome Modelica](#awesome-modelica)
+- [Tags](#tags)
 - [General](#general)
   - [Modelica Language](#community)
   - [Functional Mockup Interface](#functional-mockup-interface)
@@ -30,7 +35,7 @@ See the [official Modelica website](https://www.modelica.org/) for the official 
 ## Modelica Language
 > Language specific resources
 - [Modelica Specification Github](https://github.com/modelica/ModelicaSpecification) by the Modelica Association | Defines the Modelica modeling language.
-- [Modelica Web Reference](https://webref.modelica.university/) by Michael Tiller | A cheatsheet for the Modelica language
+- [Modelica Web Reference](https://webref.modelica.university/) by Michael Tiller | A cheatsheet for the Modelica language | :hatching_chick:
 
 ## Functional Mockup Interface
 > Resources relating Functional Mockup Interface (FMI) and Functional Mockup Units (FMU)
@@ -39,7 +44,7 @@ See the [official Modelica website](https://www.modelica.org/) for the official 
 ## Community
 > Some ways to get a hold of others for news, help, and collaborations.
 - [Modelica Discord Channel](https://discord.com/invite/bp2yeYU) | Discord server for Modelica and Modelica related technology and topics.
-- [Modelica StackOverflow](https://stackoverflow.com/questions/tagged/modelica) | The Modelica tag for Q&A.
+- [Modelica StackOverflow](https://stackoverflow.com/questions/tagged/modelica) | The Modelica tag for Q&A. | :hatching_chick:
 - [Modelica Twitter](https://twitter.com/modelica) | Official twitter for the Modelica Association.
 - [Modelica Insider Twitter](https://twitter.com/modelicainsider) | Unofficial news service about the Modelica language, Modelica usage and Modelica tools.
 - [Modelica LinkedIn](https://www.linkedin.com/groups/806917/) | LinkedIn group for Modelica
@@ -48,19 +53,19 @@ See the [official Modelica website](https://www.modelica.org/) for the official 
 ## Books
 > Published material (physical or web-based) for coming up to speed on Modelica.
 - [Modelica Association book list](https://modelica.org/publications) | A list of material managed by the Modelica Association.
-- [Modelica By Example](https://mbe.modelica.university/) by Michael Tiller | A web-based textbook for Modelica | **Highly recommended for Modelica newbies**
+- [Modelica By Example](https://mbe.modelica.university/) by Michael Tiller | A web-based textbook for Modelica | :hatching_chick:
 - [Principles of Object-Oriented Modeling and Simulation with Modelica 3.3: A Cyber-Physical Approach](https://www.amazon.com/Principles-Object-Oriented-Modeling-Simulation-Modelica/dp/111885912X) by Peter Fritzson | A thorough textbook on the Modelica langauge with many helpful examples.
   - [PDF download for those who may have access](https://doi.org/10.1002/9781118989166)
 
 ## Blogs
 > More informal knowledge sharing avenues
 - [Claytex Blogs](https://www.claytex.com/blog/) by Claytex | Tips and ideas for solving problems with Modelica from a leading user/developer of Modelica technologies.
-- [All About Modelica](https://marcobonvini.com/modelica/2020/06/29/all-about-modelica.html) by Marco Bonvini | An introduction describing what is Modelica.
+- [All About Modelica](https://marcobonvini.com/modelica/2020/06/29/all-about-modelica.html) by Marco Bonvini | An introduction describing what is Modelica. | :hatching_chick:
 - [Modelon News Blog](https://www.modelon.com/news-blog) by Modelon | Tips and ideas for solving problems with Modelica from a leading user/developer of Modelica technologies.
 
 ## Videos & Tutorials
 > Media (videa, audio, powerpoint, etc.) for learning and using Modelica.
-- [Modelica & TRANSFORM Tutorials](https://www.youtube.com/channel/UCL8MRWi3q0Ivo2KVMLq1O8A) by Scott Greenwood | YouTube channel for general Modelica tutorials and tutorials using the TRANSFORM library.
+- [Modelica & TRANSFORM Tutorials](https://www.youtube.com/channel/UCL8MRWi3q0Ivo2KVMLq1O8A) by Scott Greenwood | YouTube channel for general Modelica tutorials and TRANSFORM library tutorials.
 
 # Tool Specific
 > Resources more specific to indivdual tools  and vendors.
