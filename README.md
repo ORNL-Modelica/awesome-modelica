@@ -63,21 +63,18 @@ See the [official Modelica website](https://www.modelica.org/) for the official 
 > Tools will be presented in **Alphabetical** order
 
 ## Dymola
-> A commercial modeling and simulation environment by Dassault Systèmes®.
-> [Official website](https://www.3ds.com/products-services/catia/products/dymola/)
+> A commercial modeling and simulation environment by Dassault Systèmes®. [Official website](https://www.3ds.com/products-services/catia/products/dymola/)
 
 ### Community
 - [LinkedIn](https://www.linkedin.com/groups/4400628/) | Official LinkedIn group for Dymola.
 
 ## Modelon Impact
-> A commercial modeling and simulation environment by Modelon®.
-> [Official website](https://www.modelon.com/modelon-impact)
+> A commercial modeling and simulation environment by Modelon®. [Official website](https://www.modelon.com/modelon-impact)
 ### Community
 - [LinkedIn](https://www.linkedin.com/groups/12431484/) | Official LinkedIn group for Modelon Impact.
 
 ## OpenModelica
-> An open source modeling and simulation environment by the Open Source Modelica Consortium (OSMC).
-> [Official website](https://www.openmodelica.org/)
+> An open source modeling and simulation environment by the Open Source Modelica Consortium (OSMC). [Official website](https://www.openmodelica.org/)
 
 ### Community
 - [Twitter](https://twitter.com/openmodelica) | Twitter for OpenModelica.
