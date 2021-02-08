@@ -9,6 +9,7 @@ See the [official Modelica website](https://www.modelica.org/) for the official 
 - [Awesome Modelica](#awesome-modelica)
 - [General](#general)
   - [Modelica Language](#community)
+  - [Functional Mockup Interface (FMI)](#functional-mockup-interface-(fmi))
   - [Community](#community)
   - [Books](#books)
   - [Blogs](#blogs)
@@ -24,6 +25,9 @@ See the [official Modelica website](https://www.modelica.org/) for the official 
 ## Modelica Language
 - [Modelica Specification Github](https://github.com/modelica/ModelicaSpecification) by the Modelica Association | Defines the Modelica modeling language.
 - [Modelica Web Reference](https://webref.modelica.university/) by Michael Tiller | A cheatsheet for the Modelica language
+
+## Functional Mockup Interface (FMI)
+- [Awesome FMI Github](https://github.com/traversaro/awesome-fmi) | A curated list of Functional Mock-up Interface (FMI) libraries, tools and resources.
 
 ## Community
 - [Modelica Discord Channel](https://discord.com/invite/bp2yeYU) | Discord server for Modelica and Modelica related technology and topics.
