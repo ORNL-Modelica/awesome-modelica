@@ -33,12 +33,12 @@ See the [official Modelica website](https://www.modelica.org/) for the official 
 - [Official Modelica Association Homepage](https://www.modelica.org/) by the Modelica Association | The main website for Modelica. Good for announcements, conference proceedings, news, etc.
 
 ## Modelica Language
-> Language specific resources
+> Language specific resources.
 - [Modelica Specification Github](https://github.com/modelica/ModelicaSpecification) by the Modelica Association | Defines the Modelica modeling language.
 - [Modelica Web Reference](https://webref.modelica.university/) by Michael Tiller | A cheatsheet for the Modelica language | :hatching_chick:
 
 ## Functional Mockup Interface
-> Resources relating Functional Mockup Interface (FMI) and Functional Mockup Units (FMU)
+> Resources relating Functional Mockup Interface (FMI) and Functional Mockup Units (FMU).
 - [Awesome FMI Github](https://github.com/traversaro/awesome-fmi) | A curated list of Functional Mock-up Interface (FMI) libraries, tools and resources.
 
 ## Community
@@ -58,7 +58,7 @@ See the [official Modelica website](https://www.modelica.org/) for the official 
   - [PDF download for those who may have access](https://doi.org/10.1002/9781118989166)
 
 ## Blogs
-> More informal knowledge sharing avenues
+> More informal knowledge sharing avenues.
 - [Claytex Blogs](https://www.claytex.com/blog/) by Claytex | Tips and ideas for solving problems with Modelica from a leading user/developer of Modelica technologies.
 - [All About Modelica](https://marcobonvini.com/modelica/2020/06/29/all-about-modelica.html) by Marco Bonvini | An introduction describing what is Modelica. | :hatching_chick:
 - [Modelon News Blog](https://www.modelon.com/news-blog) by Modelon | Tips and ideas for solving problems with Modelica from a leading user/developer of Modelica technologies.
@@ -69,7 +69,7 @@ See the [official Modelica website](https://www.modelica.org/) for the official 
 
 # Tool Specific
 > Resources more specific to indivdual tools  and vendors.
-> Tools will be presented in **Alphabetical** order
+> Tools will be presented in **Alphabetical** order.
 
 ## Dymola
 > A commercial modeling and simulation environment by Dassault Systèmes®. [Official website](https://www.3ds.com/products-services/catia/products/dymola/)
