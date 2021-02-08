@@ -42,7 +42,7 @@ See the [official Modelica website](https://www.modelica.org/) for the official 
 - [Awesome FMI Github](https://github.com/traversaro/awesome-fmi) | A curated list of Functional Mock-up Interface (FMI) libraries, tools and resources.
 
 ## Community
-> Some ways to get a hold of others for news, help, and collaborations.
+> Resources for news, help, collaborations, etc.
 - [Modelica Discord Channel](https://discord.com/invite/bp2yeYU) | Discord server for Modelica and Modelica related technology and topics.
 - [Modelica StackOverflow](https://stackoverflow.com/questions/tagged/modelica) | The Modelica tag for Q&A. | :hatching_chick:
 - [Modelica Twitter](https://twitter.com/modelica) | Official twitter for the Modelica Association.
