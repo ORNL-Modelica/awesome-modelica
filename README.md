@@ -19,7 +19,7 @@ See the [official Modelica website](https://www.modelica.org/) for the official 
   - [OpenModelica](#openmodelica)
 
 # General
-- [Official Modelica Association Homepage](https://www.modelica.org/) by the Modelica Association
+> [Official Modelica Association Homepage](https://www.modelica.org/) by the Modelica Association
 
 ## Modelica Language
 - [Modelica Specification Github](https://github.com/modelica/ModelicaSpecification) - by the Modelica Association - A very useful document!
