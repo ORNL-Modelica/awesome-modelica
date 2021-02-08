@@ -22,7 +22,7 @@ See the [official Modelica website](https://www.modelica.org/) for the official 
   - [Community](#community)
   - [Books](#books)
   - [Blogs](#blogs)
-  - [Videos & Tutorials](#videos-&-tutorials)
+  - [Videos and Tutorials](#videos-and-tutorials)
 - [Tool Specific](#tool-specific)
   - [Dymola](#dymola)
   - [Modelon Impact](#modelon-impact)
@@ -63,7 +63,7 @@ See the [official Modelica website](https://www.modelica.org/) for the official 
 - [All About Modelica](https://marcobonvini.com/modelica/2020/06/29/all-about-modelica.html) by Marco Bonvini | An introduction describing what is Modelica. | :hatching_chick:
 - [Modelon News Blog](https://www.modelon.com/news-blog) by Modelon | Tips and ideas for solving problems with Modelica from a leading user/developer of Modelica technologies.
 
-## Videos & Tutorials
+## Videos and Tutorials
 > Media (e.g., video, audio, powerpoint, etc.) for learning and using Modelica.
 - [Modelica & TRANSFORM Tutorials](https://www.youtube.com/channel/UCL8MRWi3q0Ivo2KVMLq1O8A) by Scott Greenwood | YouTube channel for general Modelica tutorials and TRANSFORM library tutorials.
 
