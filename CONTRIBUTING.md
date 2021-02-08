@@ -11,6 +11,4 @@ Ensure your pull request adheres to the following guidelines:
  ## Format Examples
  - [Short Title](URL) by Author | Short description which ends with a period.
  - [Short Title](URL) | Short description which ends with a period.
- - [Short Title](URL) by Author | Short description which ends with a period.
-     - [Short Title](URL) | Description of what this subbullet is.
-     
+   - [Short Title](URL) | Description of what this subbullet is.
