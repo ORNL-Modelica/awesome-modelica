@@ -40,7 +40,9 @@ See the [official Modelica website](https://www.modelica.org/) for the official 
 
 ## Functional Mockup Interface
 > Resources relating Functional Mockup Interface (FMI) and Functional Mockup Units (FMU).
-- [Awesome FMI Github](https://github.com/traversaro/awesome-fmi) | A curated list of Functional Mock-up Interface (FMI) libraries, tools and resources.
+- [Awesome FMI Github](https://github.com/traversaro/awesome-fmi) | A curated list of FMI libraries, tools and resources.
+- [FMPy Github](https://github.com/CATIA-Systems/FMPy) by Dassault Systemes | FMPy is a free Python library to simulate FMUs. | :hatching_chick:
+- [PyFMI](https://github.com/modelon-community/PyFMI) by Modelon | PyFMI is a package for loading and interacting with FMUs.
 
 ## Libraries
 > Library resources for the general audience.
