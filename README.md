@@ -46,7 +46,7 @@ See the [official Modelica website](https://www.modelica.org/) for the official 
 - [PyFMI Github](https://github.com/modelon-community/PyFMI) by Modelon | PyFMI is a package for loading and interacting with FMUs.
 
 ## Coding Style Guides
-- [LBNL Buildings Library Style Guide](https://simulationresearch.lbl.gov/modelica/userGuide/development.html#style-guide)
+- [LBNL Buildings Library Style Guide](https://simulationresearch.lbl.gov/modelica/userGuide/development.html#style-guide) | Concise recommendations for how to organize your Modelica code.
 
 ## Libraries
 > Library resources for the general audience.
