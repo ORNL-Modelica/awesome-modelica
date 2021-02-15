@@ -29,6 +29,7 @@ See the [official Modelica website](https://www.modelica.org/) for the official 
   - [Dymola](#dymola)
   - [Modelon Impact](#modelon-impact)
   - [OpenModelica](#openmodelica)
+  - [SystemModeler](#systemmodeler)
 
 # General
 > Resources of a nature more generally helpful to the Modelica community.
