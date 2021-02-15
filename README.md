@@ -91,6 +91,7 @@ See the [official Modelica website](https://www.modelica.org/) for the official 
 
 ## Modelon Impact
 > A commercial modeling and simulation environment by Modelon®. [Official website](https://www.modelon.com/modelon-impact)
+
 ### Community
 - [LinkedIn](https://www.linkedin.com/groups/12431484/) | Official LinkedIn group for Modelon Impact.
 
@@ -106,7 +107,11 @@ See the [official Modelica website](https://www.modelica.org/) for the official 
 - [WebBook](http://omwebbook.openmodelica.org/) | Webbook for OpenModelica.
 
 
+## SystemModeler
+> A commercial modeling and simulation environment by Wolfram®. [Official website](https://www.wolfram.com/system-modeler/)
 
+### Community
+- [Official Forum](https://community.wolfram.com/content?curTag=system%20modeler) | Official Wolfram community Q&A forum for SystemModeler.
 
 
 
