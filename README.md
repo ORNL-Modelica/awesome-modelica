@@ -59,7 +59,7 @@ See the [official Modelica website](https://www.modelica.org/) for the official 
 - [Modelica Discord Channel](https://discord.com/invite/bp2yeYU) | Discord server for Modelica and Modelica related technology and topics.
 - [Modelica StackOverflow](https://stackoverflow.com/questions/tagged/modelica) | The Modelica tag for Q&A. | :hatching_chick:
 - [Modelica Twitter](https://twitter.com/modelica) | Official twitter for the Modelica Association.
-- [Modelica Insider Twitter](https://twitter.com/modelicainsider) | Unofficial news service about the Modelica language, Modelica usage and Modelica tools.
+- [Modelica Insider Twitter](https://twitter.com/modelicainsider) | Unofficial news about the Modelica language, Modelica usage and Modelica tools.
 - [Modelica LinkedIn](https://www.linkedin.com/groups/806917/) | LinkedIn group for Modelica
 - [Modelica Reddit](https://www.reddit.com/r/Modelica/) | Reddit group for Modelica
 
