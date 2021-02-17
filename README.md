@@ -74,7 +74,7 @@ See the [official Modelica website](https://www.modelica.org/) for the official 
 > More informal knowledge sharing avenues.
 - [Claytex Blogs](https://www.claytex.com/blog/) by Claytex | Tips and ideas for solving problems with Modelica from a leading user/developer of Modelica technologies.
 - [All About Modelica](https://marcobonvini.com/modelica/2020/06/29/all-about-modelica.html) by Marco Bonvini | An introduction describing what is Modelica. | :hatching_chick:
-- [Modelon News Blog](https://www.modelon.com/news-blog) by Modelon | Tips and ideas for solving problems with Modelica from a leading user/developer of Modelica technologies.
+- [Modelon News Blog](https://www.modelon.com/news-blog) by Modelon | Tips and ideas for solving problems with Modelica from a leader in Modelica technologies.
 
 ## Videos and Tutorials
 > Media (e.g., video, audio, powerpoint, etc.) for learning and using Modelica.
