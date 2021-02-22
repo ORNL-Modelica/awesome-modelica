@@ -69,7 +69,9 @@ See the [official Modelica website](https://www.modelica.org/) for the official 
 - [Modelica By Example](https://mbe.modelica.university/) by Michael Tiller | A web-based textbook for Modelica | :hatching_chick:
 - [Principles of Object-Oriented Modeling and Simulation with Modelica 3.3: A Cyber-Physical Approach](https://www.amazon.com/Principles-Object-Oriented-Modeling-Simulation-Modelica/dp/111885912X) by Peter Fritzson | A thorough textbook on the Modelica langauge with many helpful examples.
   - [PDF download for those who may have access](https://doi.org/10.1002/9781118989166)
-
+- [Multi‐Physics Modeling of Technological Systems](https://onlinelibrary.wiley.com/doi/book/10.1002/9781119644293) by Budinger, Hazyuk, & Coïc | Multidomain technological systems text using Modelica for most of the examples.
+  - [PDF download for those who may have access](https://onlinelibrary.wiley.com/doi/pdf/10.1002/9781119644293)
+ 
 ## Blogs
 > More informal knowledge sharing avenues.
 - [Claytex Blogs](https://www.claytex.com/blog/) by Claytex | Tips and ideas for solving problems with Modelica from a leading user/developer of Modelica technologies.
