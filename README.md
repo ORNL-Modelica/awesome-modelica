@@ -91,6 +91,9 @@ See the [official Modelica website](https://www.modelica.org/) for the official 
 
 ### Community
 - [LinkedIn](https://www.linkedin.com/groups/4400628/) | Official LinkedIn group for Dymola.
+### Installation Guide
+- Official - View the current manual provided with your Dymola distribution
+- Unofficial Guide - Go to the [installation folder in this repo](/installation/dymola/) and choose the pertinent Dymola version.
 
 ## Modelon Impact
 > A commercial modeling and simulation environment by Modelon®. [Official website](https://www.modelon.com/modelon-impact)
