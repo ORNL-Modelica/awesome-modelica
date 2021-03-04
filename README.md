@@ -17,7 +17,7 @@ See the [official Modelica website](https://www.modelica.org/) for the official 
 - [Awesome Modelica](#awesome-modelica)
 - [Tags](#tags)
 - [General](#general)
-  - [Modelica Language](#community)
+  - [Modelica Language](#modelica-language)
   - [Functional Mockup Interface](#functional-mockup-interface)
   - [Coding Style Guides](#coding-style-guides)
   - [Libraries](#libraries)
