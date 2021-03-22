@@ -91,6 +91,7 @@ See the [official Modelica website](https://www.modelica.org/) for the official 
 
 ### Community
 - [LinkedIn](https://www.linkedin.com/groups/4400628/) | Official LinkedIn group for Dymola.
+- [Dymola StackOverflow](https://stackoverflow.com/questions/tagged/dymola) | The Dymola tag for Q&A.
 
 ### Installation Guide
 - Official Guide - View the current manual provided with your Dymola distribution
@@ -110,15 +111,15 @@ See the [official Modelica website](https://www.modelica.org/) for the official 
 - [StackOverflow](https://stackoverflow.com/questions/tagged/openmodelica) | StackOverflow for OpenModelica.
 - [Official Forum](https://www.openmodelica.org/forum) | Forum for OpenModelica.
 
+## Videos and Tutorials
+- [Modelica Tutorials using OpenModelica](https://openmodelica.org/useresresources/modelica-courses) | Interactive  tutorials for beginners | :hatching_chick:
+
 ### Books
 - [WebBook](http://omwebbook.openmodelica.org/) | Webbook for OpenModelica.
-
 
 ## SystemModeler
 > A commercial modeling and simulation environment by Wolfram®. [Official website](https://www.wolfram.com/system-modeler/)
 
 ### Community
 - [Official Forum](https://community.wolfram.com/content?curTag=system%20modeler) | Official Wolfram community Q&A forum for SystemModeler.
-
-
-
+- [SystemModeler StackOverflow](https://stackoverflow.com/questions/tagged/systemmodeler) | The SystemModeler tag for Q&A.
