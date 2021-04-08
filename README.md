@@ -9,11 +9,11 @@ Modelica is a non-proprietary, object-oriented, equation based modeling language
 
 See the [official Modelica website](https://www.modelica.org/) for the official specification and more information about the Modelica Language.
 
-## Tags
+# Tags
 > A list of tags to help guide the reader based on Modelica experience.
 - :hatching_chick: | Recommended for those new to Modelica.
 
-## Contents
+# Contents
 - [Awesome Modelica](#awesome-modelica)
 - [Tags](#tags)
 - [General](#general)
