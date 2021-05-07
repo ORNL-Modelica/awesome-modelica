@@ -41,7 +41,8 @@ See the [official Modelica website](https://www.modelica.org/) for the official 
 - [Modelica Web Reference](https://webref.modelica.university/) by Michael Tiller | A cheatsheet for the Modelica language | :hatching_chick:
 
 ## Functional Mockup Interface
-> Resources relating Functional Mockup Interface (FMI) and Functional Mockup Units (FMU).
+> Resources relating Functional Mock-up Interface (FMI) and Functional Mockup Units (FMU).
+- [Official FMI homepage](https://fmi-standard.org/) | The official homepage for the FMI standard
 - [Awesome FMI Github](https://github.com/traversaro/awesome-fmi) | A curated list of FMI libraries, tools and resources.
 - [FMPy Github](https://github.com/CATIA-Systems/FMPy) by Dassault Systemes | FMPy is a free Python library to simulate FMUs. | :hatching_chick:
 - [PyFMI Github](https://github.com/modelon-community/PyFMI) by Modelon | PyFMI is a package for loading and interacting with FMUs.
