@@ -37,7 +37,7 @@ See the [official Modelica website](https://www.modelica.org/) for the official 
 - [Official Modelica Association Homepage](https://www.modelica.org/) by the Modelica Association | The main website for Modelica. Good for announcements, conference proceedings, news, etc.
 
 ## Modelica Conferences
-- [Modelica Association Conferences](https://modelica.org/publications/ModelicaConference.html) - Primary conference series for the Modelica community.
+- [Modelica Association Conferences](https://modelica.org/publications/ModelicaConference.html) | Primary conference series for the Modelica community.
 
 ## Modelica Language
 > Language specific resources.
