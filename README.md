@@ -38,7 +38,7 @@ See the [official Modelica website](https://www.modelica.org/) for the official 
 
 ## Modelica Conferences
 - [Modelica Association Conferences] (https://modelica.org/publications/ModelicaConference.html) - Primary conference series for the Modelica community.
-- 
+
 ## Modelica Language
 > Language specific resources.
 - [Modelica Specification Github](https://github.com/modelica/ModelicaSpecification) by the Modelica Association | Defines the Modelica modeling language.
