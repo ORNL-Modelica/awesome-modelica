@@ -17,6 +17,7 @@ See the [official Modelica website](https://www.modelica.org/) for the official 
 - [Awesome Modelica](#awesome-modelica)
 - [Tags](#tags)
 - [General](#general)
+  - [Modelica Conferences](#modelica-conferences)
   - [Modelica Language](#modelica-language)
   - [Functional Mockup Interface](#functional-mockup-interface)
   - [Coding Style Guides](#coding-style-guides)
@@ -35,6 +36,9 @@ See the [official Modelica website](https://www.modelica.org/) for the official 
 > Resources of a nature more generally helpful to the Modelica community.
 - [Official Modelica Association Homepage](https://www.modelica.org/) by the Modelica Association | The main website for Modelica. Good for announcements, conference proceedings, news, etc.
 
+## Modelica Conferences
+- [Modelica Association Conferences] (https://modelica.org/publications/ModelicaConference.html) - Primary conference series for the Modelica community.
+- 
 ## Modelica Language
 > Language specific resources.
 - [Modelica Specification Github](https://github.com/modelica/ModelicaSpecification) by the Modelica Association | Defines the Modelica modeling language.
