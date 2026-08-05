@@ -81,7 +81,8 @@ See the [official Modelica website](https://www.modelica.org/) for the official 
 - [Claytex Blogs](https://www.claytex.com/blog/) by Claytex | Tips and ideas for solving problems with Modelica from a leader in Modelica technologies.
 - [All About Modelica](https://marcobonvini.com/modelica/2020/06/29/all-about-modelica.html) by Marco Bonvini | An introduction describing what is Modelica. | :hatching_chick:
 - [Modelon News Blog](https://www.modelon.com/news-blog) by Modelon | Tips and ideas for solving problems with Modelica from a leader in Modelica technologies.
-
+- [Modelica & FMI](https://dr-clementcoic.github.io/LearnModelicaFMI/) by Clément Coïc | Article series to progressively introduce someone to Modelica & FMI. | :hatching_chick:
+- 
 ## Videos and Tutorials
 > Media (e.g., video, audio, powerpoint, etc.) for learning and using Modelica.
 - [Modelica & TRANSFORM Tutorials](https://www.youtube.com/channel/UCL8MRWi3q0Ivo2KVMLq1O8A) by Scott Greenwood | YouTube channel for general Modelica tutorials and TRANSFORM library tutorials.
@@ -103,6 +104,7 @@ See the [official Modelica website](https://www.modelica.org/) for the official 
 
 ## Modelon Impact
 > A commercial modeling and simulation environment by Modelon®. [Official website](https://www.modelon.com/modelon-impact)
+- [Help Center](https://help.modelon.com/latest/verticals/use_cases_tutorials/) | Training, tutorials, & video guides for Modelica via Modelon Impact.
 
 ### Community
 - [LinkedIn](https://www.linkedin.com/groups/12431484/) | Official LinkedIn group for Modelon Impact.
